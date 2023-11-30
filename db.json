@@ -1,0 +1,91 @@
+{
+  "forum":[ {
+    "userAvatar": "https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png",
+    "username": "JohnDoe123",
+    "questionTitle": "How to sort an array in JavaScript?",
+    "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+    "language": "JavaScript",
+    "upvotes": 10,
+    "answers": 3,
+    "postedDate": "2023-05-30"
+  },
+  {
+    "userAvatar": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+    "username": "JohnDoe123",
+    "questionTitle": "How to sort an array in JavaScript?",
+    "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+    "language": "JavaScript",
+    "upvotes": 10,
+    "answers": 3,
+    "postedDate": "2023-05-30"
+  },
+  {
+    "userAvatar": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+    "username": "Vijaya Sharma",
+    "questionTitle": "What is props?",
+    "questionDescription": "I'm struggling with sending props through component please provide guidance?",
+    "language": "React",
+    "upvotes": 10,
+    "answers": 3,
+    "postedDate": "2023-05-30"
+  },
+  {
+    "userAvatar": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+    "username": "Vijaya Sharma",
+    "questionTitle": "How to use mongoose in node js",
+    "questionDescription": "I'm struggling with sending props through component please provide guidance?",
+    "language": "Node",
+    "upvotes": 10,
+    "answers": 3,
+    "postedDate": "2023-05-30"
+  },
+  {
+    "userAvatar": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+    "username": "Vijaya Sharma",
+    "questionTitle": "How to use map function js",
+    "questionDescription": "I'm struggling with sending props through component please provide guidance?",
+    "language": "Node",
+    "upvotes": 10,
+    "answers": 3,
+    "postedDate": "2023-05-30"
+  }
+],
+  "answers": [
+    {
+      "userAvatar": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "username": "JaneSmith456",
+      "questionTitle": "How to sort an array in JavaScript?",
+      "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
+      "postedDate": "2023-05-31"
+    },
+    {
+      "userAvatar": "https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png",
+      "username": "SamJohnson789",
+      "questionTitle": "What is props?",
+      "answerText": "We'll talk about how variables are used inside JSX, and introduce props, which are a way of passing data into a component .",
+      "postedDate": "2023-06-01"
+    },
+    {
+      "userAvatar": "https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png",
+      "username": "SamJohnson789",
+      "questionTitle": "How to sort an array in JavaScript?",
+      "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
+      "postedDate": "2023-06-01"
+    },
+    {
+      "userAvatar": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "username": "EmilyBrownXYZ",
+      "questionTitle": "What is props?",
+      "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
+      "postedDate": "2023-06-01"
+    }
+  ],
+  "users":[
+   { 
+    "username": "Vijaya Sharma",
+    "password" : "123",
+    "userAvatar": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+    "email": "vijaya@gmail.com"
+  }
+  ]
+}
